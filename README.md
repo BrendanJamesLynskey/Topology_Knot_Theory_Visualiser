@@ -2,6 +2,10 @@
 
 An interactive single-file HTML application for exploring surfaces, knots, and topological invariants through 3D visualisations.
 
+### [Launch App](https://brendanjameslynskey.github.io/Topology_Knot_Theory_Visualiser/)
+
+---
+
 ## Features
 
 ### 1. Surface Gallery
@@ -30,12 +34,6 @@ An interactive single-file HTML application for exploring surfaces, knots, and t
 - Surfaces: Torus (aba^{-1}b^{-1}), Klein bottle (abab^{-1}), RP^2 (abab), Sphere
 - Animated folding/gluing process
 - Adjustable animation speed
-
-## Usage
-
-Open `index.html` in any modern web browser. No build step or server required.
-
-The only external dependency is Google Fonts (DM Sans, JetBrains Mono) loaded via CDN.
 
 ## Technical Details
 
